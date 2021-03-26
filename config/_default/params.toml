@@ -13,16 +13,16 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "Ocean"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = 1
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = "native"
+font = "Classic"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -37,7 +37,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Organization"
+site_type = "EducationalOrganization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes

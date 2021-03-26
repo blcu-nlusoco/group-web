@@ -12,13 +12,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
-subtitle:
+title: 
+subtitle: 
 
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: bg.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
