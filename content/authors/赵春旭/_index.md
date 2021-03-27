@@ -19,7 +19,7 @@ superuser: false
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 吃喝玩乐笑哈哈。
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
