@@ -5,7 +5,7 @@
     <link>https://blcu-nlusoco.github.io/group-web/publication/</link>
       <atom:link href="https://blcu-nlusoco.github.io/group-web/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 26 Dec 2020 21:02:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 27 Mar 2021 16:29:06 +0800</lastBuildDate>
     <image>
       <url>https://blcu-nlusoco.github.io/group-web/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>一种文本知识提取方法、装置及自然语言推断系统</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/%E4%B8%80%E7%A7%8D%E6%96%87%E6%9C%AC%E7%9F%A5%E8%AF%86%E6%8F%90%E5%8F%96%E6%96%B9%E6%B3%95%E8%A3%85%E7%BD%AE%E5%8F%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%8E%A8%E6%96%AD%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 27 Mar 2021 16:29:06 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/%E4%B8%80%E7%A7%8D%E6%96%87%E6%9C%AC%E7%9F%A5%E8%AF%86%E6%8F%90%E5%8F%96%E6%96%B9%E6%B3%95%E8%A3%85%E7%BD%AE%E5%8F%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%8E%A8%E6%96%AD%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BLCU-NLP at SemEval-2020 Task 5: Data Augmentation for Efficient Counterfactual Detecting</title>
       <link>https://blcu-nlusoco.github.io/group-web/publication/data-augmentation-for-efficient-counterfactual-detecting/</link>
       <pubDate>Sat, 26 Dec 2020 21:02:00 +0800</pubDate>
       <guid>https://blcu-nlusoco.github.io/group-web/publication/data-augmentation-for-efficient-counterfactual-detecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Reasoning Scheme a Dataset for Syllogism Figure Identification</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/exploring-reasoning-scheme-a-dataset-for-syllogism-figure-identification/</link>
+      <pubDate>Fri, 27 Mar 2020 16:48:34 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/exploring-reasoning-scheme-a-dataset-for-syllogism-figure-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中文矛盾语块数据集构建和边界识别研究</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/%E4%B8%AD%E6%96%87%E7%9F%9B%E7%9B%BE%E8%AF%AD%E5%9D%97%E6%95%B0%E6%8D%AE%E9%9B%86%E6%9E%84%E5%BB%BA%E5%92%8C%E8%BE%B9%E7%95%8C%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Fri, 27 Mar 2020 16:01:41 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/%E4%B8%AD%E6%96%87%E7%9F%9B%E7%9B%BE%E8%AF%AD%E5%9D%97%E6%95%B0%E6%8D%AE%E9%9B%86%E6%9E%84%E5%BB%BA%E5%92%8C%E8%BE%B9%E7%95%8C%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然语言显式命题识别和解析方法</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%98%BE%E5%BC%8F%E5%91%BD%E9%A2%98%E8%AF%86%E5%88%AB%E5%92%8C%E8%A7%A3%E6%9E%90%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 27 Mar 2019 16:37:18 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%98%BE%E5%BC%8F%E5%91%BD%E9%A2%98%E8%AF%86%E5%88%AB%E5%92%8C%E8%A7%A3%E6%9E%90%E6%96%B9%E6%B3%95/</guid>
       <description></description>
     </item>
     
