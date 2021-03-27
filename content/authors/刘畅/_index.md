@@ -16,10 +16,10 @@ superuser: false
 # Organizations/Affiliations
 # organizations:
 # - name: 北京语言大学
-#  url: ""
+#  url: "blcu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 学习，只有学习，才能让我变强
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,3 +46,4 @@ email: ""
 user_groups:
 - 成员
 ---
+
