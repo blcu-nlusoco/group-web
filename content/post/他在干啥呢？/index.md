@@ -10,7 +10,7 @@ categories: []
 date: 2021-03-26T20:34:48+08:00
 lastmod: 2021-03-26T20:34:48+08:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,4 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-{{< video src="liuchang-working.mp4" controls="yes" >}}
