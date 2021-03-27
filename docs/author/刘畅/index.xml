@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘畅 | NLU&amp;SoCo</title>
-    <link>https://rover912.github.io/test/author/%E5%88%98%E7%95%85/</link>
-      <atom:link href="https://rover912.github.io/test/author/%E5%88%98%E7%95%85/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://blcu-nlusoco.github.io/group-web/author/%E5%88%98%E7%95%85/</link>
+      <atom:link href="https://blcu-nlusoco.github.io/group-web/author/%E5%88%98%E7%95%85/index.xml" rel="self" type="application/rss+xml" />
     <description>刘畅</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 26 Dec 2020 21:02:00 +0800</lastBuildDate>
     <image>
-      <url>https://rover912.github.io/test/author/%E5%88%98%E7%95%85/avatar_hu7809d41368109be760b79162e3ac9b5a_57973_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://blcu-nlusoco.github.io/group-web/author/%E5%88%98%E7%95%85/avatar_hu7809d41368109be760b79162e3ac9b5a_57973_270x270_fill_q75_lanczos_center.jpg</url>
       <title>刘畅</title>
-      <link>https://rover912.github.io/test/author/%E5%88%98%E7%95%85/</link>
+      <link>https://blcu-nlusoco.github.io/group-web/author/%E5%88%98%E7%95%85/</link>
     </image>
     
     <item>
       <title>BLCU-NLP at SemEval-2020 Task 5: Data Augmentation for Efficient Counterfactual Detecting</title>
-      <link>https://rover912.github.io/test/publication/data-augmentation-for-efficient-counterfactual-detecting/</link>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/data-augmentation-for-efficient-counterfactual-detecting/</link>
       <pubDate>Sat, 26 Dec 2020 21:02:00 +0800</pubDate>
-      <guid>https://rover912.github.io/test/publication/data-augmentation-for-efficient-counterfactual-detecting/</guid>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/data-augmentation-for-efficient-counterfactual-detecting/</guid>
       <description></description>
     </item>
     

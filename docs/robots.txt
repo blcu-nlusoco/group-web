@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://rover912.github.io/test/sitemap.xml
+Sitemap: https://blcu-nlusoco.github.io/group-web/sitemap.xml
