@@ -16,7 +16,7 @@ publishDate: 2020-12-01T21:02:00+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Committee for Computational Linguistics"
+publication: "Proceedings of the 14th International Workshop on Semantic Evaluation"
 publication_short: ""
 
 abstract: "Counterfactuals describe events counter to facts and hence naturally involve common sense, knowledge, and reasoning. SemEval 2020 task 5 is focusing on this field. We participate in the subtask 1 and we use BERT as our system. Our Innovations are feature extraction and data augmentation. We extract and summarize features of counterfactual statements, augment counterfactual examples in training set with the help of these features, and two general methods of data augmentation is experimented in our work. We demonstrate the effectiveness of our approaches, which achieves 0.95 of subtask 1 in F1 while using only a subset of giving training set to fine-tune the BERT model, and our official submission achieves F1 0.802, which ranks us 16th in the competition."

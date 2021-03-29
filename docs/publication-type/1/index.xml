@@ -5,12 +5,20 @@
     <link>https://blcu-nlusoco.github.io/group-web/publication-type/1/</link>
       <atom:link href="https://blcu-nlusoco.github.io/group-web/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 26 Dec 2020 21:02:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 29 Mar 2021 09:21:50 +0800</lastBuildDate>
     <image>
       <url>https://blcu-nlusoco.github.io/group-web/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://blcu-nlusoco.github.io/group-web/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Pruning Then Expanding Model for Domain Adaptation of Neural Machine Translation</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/pruning-then-expanding-model-for-domain-adaptation-of-neural-machine-translation/</link>
+      <pubDate>Mon, 29 Mar 2021 09:21:50 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/pruning-then-expanding-model-for-domain-adaptation-of-neural-machine-translation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BLCU-NLP at SemEval-2020 Task 5: Data Augmentation for Efficient Counterfactual Detecting</title>
@@ -29,10 +37,42 @@
     </item>
     
     <item>
+      <title>Token Level Adaptive Training for Neural Machine Translation</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/token-level-adaptive-training-for-neural-machine-translation/</link>
+      <pubDate>Mon, 16 Nov 2020 09:25:27 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/token-level-adaptive-training-for-neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Fluency and Faithfulness for Diverse Neural Machine Translation</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/modeling-fluency-and-faithfulness-for-diverse-neural-machine-translation/</link>
+      <pubDate>Fri, 03 Apr 2020 09:06:56 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/modeling-fluency-and-faithfulness-for-diverse-neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploring Reasoning Scheme a Dataset for Syllogism Figure Identification</title>
       <link>https://blcu-nlusoco.github.io/group-web/publication/exploring-reasoning-scheme-a-dataset-for-syllogism-figure-identification/</link>
       <pubDate>Fri, 27 Mar 2020 16:48:34 +0800</pubDate>
       <guid>https://blcu-nlusoco.github.io/group-web/publication/exploring-reasoning-scheme-a-dataset-for-syllogism-figure-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLCU_NLP at SemEval 2019 Task 8 a Contextual Knowledge Enhanced GPT Model for Fact Checking</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-8-a-contextual-knowledge-enhanced-gpt-model-for-fact-checking/</link>
+      <pubDate>Sat, 29 Jun 2019 09:02:46 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-8-a-contextual-knowledge-enhanced-gpt-model-for-fact-checking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLCU_NLP at SemEval 2019 Task 7: An Inference Chain Based GPT Model for Rumour Evaluation</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-7-an-inference-chain-based-gpt-model-for-rumour-evaluation/</link>
+      <pubDate>Sat, 29 Jun 2019 08:58:02 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-7-an-inference-chain-based-gpt-model-for-rumour-evaluation/</guid>
       <description></description>
     </item>
     

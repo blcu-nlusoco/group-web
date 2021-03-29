@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阙梦溪 | NLU&amp;SoCo</title>
+    <link>https://blcu-nlusoco.github.io/group-web/author/%E9%98%99%E6%A2%A6%E6%BA%AA/</link>
+      <atom:link href="https://blcu-nlusoco.github.io/group-web/author/%E9%98%99%E6%A2%A6%E6%BA%AA/index.xml" rel="self" type="application/rss+xml" />
+    <description>阙梦溪</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 29 Jun 2019 09:02:46 +0800</lastBuildDate>
+    <image>
+      <url>https://blcu-nlusoco.github.io/group-web/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>阙梦溪</title>
+      <link>https://blcu-nlusoco.github.io/group-web/author/%E9%98%99%E6%A2%A6%E6%BA%AA/</link>
+    </image>
+    
+    <item>
+      <title>BLCU_NLP at SemEval 2019 Task 8 a Contextual Knowledge Enhanced GPT Model for Fact Checking</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-8-a-contextual-knowledge-enhanced-gpt-model-for-fact-checking/</link>
+      <pubDate>Sat, 29 Jun 2019 09:02:46 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-8-a-contextual-knowledge-enhanced-gpt-model-for-fact-checking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

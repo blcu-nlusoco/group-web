@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杨郑鑫 | NLU&amp;SoCo</title>
+    <link>https://blcu-nlusoco.github.io/group-web/author/%E6%9D%A8%E9%83%91%E9%91%AB/</link>
+      <atom:link href="https://blcu-nlusoco.github.io/group-web/author/%E6%9D%A8%E9%83%91%E9%91%AB/index.xml" rel="self" type="application/rss+xml" />
+    <description>杨郑鑫</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Fri, 03 Apr 2020 09:06:56 +0800</lastBuildDate>
+    <image>
+      <url>https://blcu-nlusoco.github.io/group-web/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>杨郑鑫</title>
+      <link>https://blcu-nlusoco.github.io/group-web/author/%E6%9D%A8%E9%83%91%E9%91%AB/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Fluency and Faithfulness for Diverse Neural Machine Translation</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/modeling-fluency-and-faithfulness-for-diverse-neural-machine-translation/</link>
+      <pubDate>Fri, 03 Apr 2020 09:06:56 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/modeling-fluency-and-faithfulness-for-diverse-neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

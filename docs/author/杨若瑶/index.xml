@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杨若瑶 | NLU&amp;SoCo</title>
+    <link>https://blcu-nlusoco.github.io/group-web/author/%E6%9D%A8%E8%8B%A5%E7%91%B6/</link>
+      <atom:link href="https://blcu-nlusoco.github.io/group-web/author/%E6%9D%A8%E8%8B%A5%E7%91%B6/index.xml" rel="self" type="application/rss+xml" />
+    <description>杨若瑶</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 29 Jun 2019 09:02:46 +0800</lastBuildDate>
+    <image>
+      <url>https://blcu-nlusoco.github.io/group-web/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>杨若瑶</title>
+      <link>https://blcu-nlusoco.github.io/group-web/author/%E6%9D%A8%E8%8B%A5%E7%91%B6/</link>
+    </image>
+    
+    <item>
+      <title>BLCU_NLP at SemEval 2019 Task 8 a Contextual Knowledge Enhanced GPT Model for Fact Checking</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-8-a-contextual-knowledge-enhanced-gpt-model-for-fact-checking/</link>
+      <pubDate>Sat, 29 Jun 2019 09:02:46 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-8-a-contextual-knowledge-enhanced-gpt-model-for-fact-checking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLCU_NLP at SemEval 2019 Task 7: An Inference Chain Based GPT Model for Rumour Evaluation</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-7-an-inference-chain-based-gpt-model-for-rumour-evaluation/</link>
+      <pubDate>Sat, 29 Jun 2019 08:58:02 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/blcu_nlp-at-semeval-2019-task-7-an-inference-chain-based-gpt-model-for-rumour-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
