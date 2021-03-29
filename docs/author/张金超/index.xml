@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张金超 | NLU&amp;SoCo</title>
+    <link>https://blcu-nlusoco.github.io/group-web/author/%E5%BC%A0%E9%87%91%E8%B6%85/</link>
+      <atom:link href="https://blcu-nlusoco.github.io/group-web/author/%E5%BC%A0%E9%87%91%E8%B6%85/index.xml" rel="self" type="application/rss+xml" />
+    <description>张金超</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 16 Nov 2020 09:25:27 +0800</lastBuildDate>
+    <image>
+      <url>https://blcu-nlusoco.github.io/group-web/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>张金超</title>
+      <link>https://blcu-nlusoco.github.io/group-web/author/%E5%BC%A0%E9%87%91%E8%B6%85/</link>
+    </image>
+    
+    <item>
+      <title>Token Level Adaptive Training for Neural Machine Translation</title>
+      <link>https://blcu-nlusoco.github.io/group-web/publication/token-level-adaptive-training-for-neural-machine-translation/</link>
+      <pubDate>Mon, 16 Nov 2020 09:25:27 +0800</pubDate>
+      <guid>https://blcu-nlusoco.github.io/group-web/publication/token-level-adaptive-training-for-neural-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

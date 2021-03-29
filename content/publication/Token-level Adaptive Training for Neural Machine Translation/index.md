@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Token Level Adaptive Training for Neural Machine Translation"
-authors: [谷舒豪, Jinchao Zhang, Fandong Meng, 冯洋, 谢婉莹, Jie Zhou, 于东]
+authors: [谷舒豪, 张金超, 孟凡东, 冯洋, 谢婉莹, 周杰, 于东]
 date: 2020-11-16T09:25:27+08:00
 doi: ""
 

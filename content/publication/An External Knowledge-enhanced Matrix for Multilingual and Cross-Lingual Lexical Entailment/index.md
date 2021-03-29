@@ -16,7 +16,7 @@ publishDate: 2021-03-27T17:11:07+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Committee for Computational Linguistics"
+publication: "Proceedings of the 14th International Workshop on Semantic Evaluation"
 publication_short: ""
 
 abstract: "Lexical entailment recognition plays an important role in tasks like Question Answering and Machine Translation. As important branches of lexical entailment, predicting multilingual and cross-lingual lexical entailment (LE) are two subtasks of SemEval2020 Task2. In previous monolingual LE studies, researchers leverage external linguistic constraints to transform word embeddings for LE relation. In our system, we expand the number of external constraints in multiple languages to obtain more specialised multilingual word embeddings. For the cross-lingual subtask, we apply a bilingual word embeddings mapping method in the model. The mapping method takes specialised embeddings as inputs and is able to retain the embeddings’ LE features after operations. Our results for multilingual subtask are about 20% and 10% higher than the baseline in graded and binary prediction respectively."
